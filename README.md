@@ -27,7 +27,7 @@ It allows users to explore ecommerce sales data and extract key business insight
 
 ---
 ## 🚀 Live Demo
-https://tu-app.streamlit.app
+(https://ecommercesales-bane3scxputnrxnbnpvuuj.streamlit.app/)
 --
 
 ## 🛠️ Tech Stack
