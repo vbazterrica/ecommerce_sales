@@ -23,7 +23,7 @@ It allows users to explore ecommerce sales data and extract key business insight
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard]sales_dashboard.png)
+![Dashboard]images/sales_dashboard.png)
 
 ---
 
@@ -66,6 +66,6 @@ streamlit run app.py
 ---
 
 ## 📬 Contact
- LinkedIn:https://www.linkedin.com/in/veronica-bazterrica
+ LinkedIn: https://www.linkedin.com/in/veronica-bazterrica
 - Email: vbazterrica347@gmail.com
 
