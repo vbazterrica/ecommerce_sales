@@ -23,9 +23,12 @@ It allows users to explore ecommerce sales data and extract key business insight
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard](sales_dashboard.png)
+![Dashboard]([sales_dashboard.png](https://ecommercesales-bane3scxputnrxnbnpvuuj.streamlit.app/))
 
 ---
+## 🚀 Live Demo
+https://tu-app.streamlit.app
+--
 
 ## 🛠️ Tech Stack
 
