@@ -66,6 +66,6 @@ streamlit run app.py
 ---
 
 ## 📬 Contact
+ LinkedIn:https://www.linkedin.com/in/veronica-bazterrica
+- Email: vbazterrica347@gmail.com
 
-- LinkedIn: [your-link]
-- Email: your-email@example.com
