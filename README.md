@@ -23,7 +23,7 @@ It allows users to explore ecommerce sales data and extract key business insight
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard](.images/sales_dashboard.png)
+![Dashboard](images/sales_dashboard.png)
 
 ---
 
